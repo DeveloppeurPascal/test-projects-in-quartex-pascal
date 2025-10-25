@@ -2,6 +2,13 @@
 
 [Cette page en français.](LISEZMOI.md)
 
+> [!NOTE]
+> This code repository contains obsolete test projects created on a beta version of Quartex Pascal IDE in 2023. They are no longer compatible with the final version of this Pascal web application development software.
+> For up-to-date and maintained examples, visit my [QuartexPascal-Samples code repository](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples).
+
+> [!WARNING]
+> This project has been abandoned and will no longer be updated. The repository has been kept in case any links point to it.
+
 Some personal test projects to learn Quartex Pascal and understand how it works.
 
 [Quartex Pascal IDE](https://quartexdeveloper.com) is an development environment to create web applications like we do programs in [Delphi](https://developpeur-pascal.fr/delphi.html) or [Lazarus IDE](https://developpeur-pascal.fr/lazarus.html). We have a form editor, and code in [Pascal Language](https://developpeur-pascal.fr/pascal-objet.html).
@@ -28,7 +35,7 @@ Follow my development streams of software, video games, mobile applications and 
 
 ## Source code installation
 
-To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal).
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its Codeberg repository](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples).
 
 ## Documentation and support
 
@@ -40,7 +47,7 @@ I'm a Quartex Pascal IDE license owner. I use latest version of this web develop
 
 There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it.
 
-If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal/issues) so that I can test and try to correct or provide a workaround.
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples/issues) so that I can test and try to correct or provide a workaround.
 
 ## License to use this code repository and its contents
 
@@ -57,7 +64,7 @@ The source codes of this code repository as well as any compiled version are pro
 
 ## How to ask a new feature, report a bug or a security issue ?
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal) and [open a new issue](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal/issues).
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the Codeberg repository](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples) and [open a new issue](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples/issues).
 
 If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 

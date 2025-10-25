@@ -2,6 +2,13 @@
 
 [This page in English.](README.md)
 
+> [!NOTE]
+> Ce dépôt de code regroupe des projets de test obsolètes créés sur une version beta de Quartex Pascal IDE en 2023. Ils ne sont plus compatibles avec la version finale de ce logiciel de création d'applications web en Pascal.
+> Pour consulter des exemples à jour et maintenus, rendez-vous sur [mon dépôt de code QuartexPascal-Samples](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples).
+
+> [!WARNING]
+> Ce projet est abandonné et ne fera plus l'objet de mises à jour. Le dépôt a été conservé au cas où des liens pointeraient dessus.
+
 Quelques projets de test personnels pour apprendre Quartex Pascal et comprendre son fonctionnement.
 
 [Quartex Pascal IDE](https://quartexdeveloper.com) est un environnement de développement pour créer des applications web comme on fait des programmes dans  [Delphi](https://developpeur-pascal.fr/delphi.html) ou [l'IDE Lazarus](https://developpeur-pascal.fr/lazarus.html). Nous avons un éditeur de formulaire, et du code en [langage Pascal](https://developpeur-pascal.fr/pascal-objet.html).
@@ -28,7 +35,7 @@ Suivez mes streams de développement de logiciels, jeux vidéo, applications mob
 
 ## Installation des codes sources
 
-Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal).
+Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt Codeberg](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples).
 
 ## Documentation et assistance
 
@@ -40,7 +47,7 @@ Je suis détenteur d'une licence développeur pour Quartex Pascal IDE. J'utilise
 
 Aucune garantie de compatibilité avec des versions antérieures n'est fournie même si je m'efforce de faire du code propre et ne pas trop utiliser les nouvelles façons d'écrire dedans.
 
-Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal/issues) pour que je teste et tente de corriger ou fournir un contournement.
+Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples/issues) pour que je teste et tente de corriger ou fournir un contournement.
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
@@ -57,7 +64,7 @@ Les codes sources de ce dépôt de code comme leur éventuelle version compilée
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/test-projects-in-quartex-pascal/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur Codeberg](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples) et [d'ouvrir un ticket](https://codeberg.org/PatrickPremartin/QuartexPascal-Samples/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 
